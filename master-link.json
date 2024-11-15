@@ -1,0 +1,22 @@
+{
+    "author": "Alvin Pratama",
+    "email": "alinprama@gmail.com",
+    "github": "github.com/alvin-pratama",
+    "version": "1.0.1",
+    "company-relationship": [
+        {
+            "name": "visidatateknologi",
+            "join-start": "2 April 2024",
+            "join-end": null,
+            "aplication": {
+                "data-domain": [
+                    {
+                        "npsn": "123456",
+                        "url-master": "https://portal-mobile.smarteducation.id/"
+                    }
+                ],
+                "default-url-domain-master": "https://portal-mobile.smarteducation.id/"
+            }
+        }
+    ]
+}
